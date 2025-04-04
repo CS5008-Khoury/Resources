@@ -10,6 +10,12 @@ The following resources are a *starting* point for resources. These often change
   - [C Programming Resources](#c-programming-resources)
     - [Popular Linkedln Learning Courses](#popular-linkedln-learning-courses)
   - [Git Resources](#git-resources)
+  - [SSH Resources](#ssh-resources)
+    - [SSH Key](#ssh-key)
+    - [Adding SSH Public Key to Remote Server](#adding-ssh-public-key-to-remote-server)
+      - [Windows Upload Command](#windows-upload-command)
+      - [Linux and Mac Upload Command](#linux-and-mac-upload-command)
+    - [Command Line Editors](#command-line-editors)
   - [Module Specific Resources](#module-specific-resources)
     - [Hello Linux, Hello C](#hello-linux-hello-c)
 
@@ -63,6 +69,47 @@ As a reminder, Northeastern students have access to linkedln learning. The follo
 * [Head First Git](https://learning.oreilly.com/library/view/head-first-git/9781492092506/), book: Available on O'Reilly
 * [Github Basics](https://guides.github.com/introduction/git-handbook/), a guide for learning GitHub
 * [Visualizing Git](http://git-school.github.io/visualizing-git/) is useful for learners who want to know what is going on behind the scenes
+
+## SSH Resources
+`ssh` is a program you can use to log into the khoury servers. It is possible to setup a secure key instead of using your password to login. While this is an advanced technique, we wanted to provide the resources here in case you were interested in exploring access.
+
+### SSH Key
+* [What are SSH Keys](https://www.w3docs.com/learn-git/ssh-key.html)
+  * Note: the line about windows is incorrect since windows 10. You can run ssh-keygen directly via powershell (see below)
+* [How To Generate SSH Keys on Windows 10+](https://www.howtogeek.com/762863/how-to-generate-ssh-keys-in-windows-10-and-windows-11/)
+
+### Adding SSH Public Key to Remote Server
+
+* [Linux/Mac: How to add public SSH key on a remote server](https://www.howtogeek.com/168147/add-public-ssh-key-to-remote-server-in-a-single-command/)
+
+#### Windows Upload Command
+There are multiple ways to upload your public key to your remote server. The easiest simply being logging into the server and cutting and pasting the key into authorized_keys. However, the following command line will do that for you (make sure to make changes)
+
+```console
+> ssh USERNAME@login.khoury.northeastern.edu "umask 077; test -d .ssh || mkdir .ssh ; cat >> .ssh/authorized_keys2 || exit 1" < PATH-ON-WINDOWS\id_rsa.pub
+```
+
+The PATH-ON-WINDOWS is the path to your public key. Often it will be C:\Users\YOUR_WINDOWS_USER_NAME\.ssh\id_rsa.pub as that is the default location when you run keygen. 
+
+#### Linux and Mac Upload Command
+There is also a program you can install with app-get or brew. `ssh-copy-id`
+
+```console
+> ssh-copy-id USERNAME@login.khoury.northeastern.edu
+```
+
+
+### Command Line Editors
+* Vim - use `vimtutor` via the command line on the Khoury servers
+* [Vim School](https://vimschool.netlify.app/)
+* [Very basic emacs](http://ocean.stanford.edu/research/quick_emacs.html)
+* [Emacs](https://www.gnu.org/software/emacs/tour/)
+* Emacs has a built in tutorial
+   * type emacs on the command line emacs   
+   * then type control-h followed by t
+* [Redhat Beginning Guide to Emacs](https://www.redhat.com/sysadmin/beginners-guide-emacs)
+* [Guide to Nano](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
+  
 
 
 ## Module Specific Resources
