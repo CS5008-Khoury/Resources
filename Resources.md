@@ -2,6 +2,25 @@
 
 The following resources are a *starting* point for resources. These often change, and students are encouraged to submit updates and changes. 
 
+## Course Text Books
+
+As stated in the syllabus, while there is no required textbook for this course, there are two strongly, strongly recommended textbooks, both of which are available freely online. 
+
+Grokking Algorithms, 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis.
+Available here: https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/. See instructions that follow for how to access it for free using your Northeastern University account. 
+
+[Dive Into Systems](https://diveintosystems.org/book/preface.html), by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb. A free, online textbook on computer systems and C.
+Be sure to have these resources available and handy, we'll be using referencing them throughout the semester. The additional resources below should be used if you find you don't understand some element of the course, or if you want to dig deeper into these topics. As always, you can ask which of these resources would be best if you have specific questions. 
+
+## O'Reilly Online: Books and Videos
+As an NU student, you have access to a phenomenal resource through the NU Library: O'Reilly Online. 
+1. Go to the NU library page here https://subjectguides.lib.neu.edu/compsciLinks to an external site. 
+2. Click on "Connect to O'Reilly" in the lower left hand corner
+3. For institution, select "Not listed"
+4. Put in your northeastern.edu email and continue with authentication
+5. You may need to confirm your email with a notification email you receive in your inbox
+6. Search for the books or videos you're looking for and add them to a playlist with this course name (for convenience, not required)
+
 ## Algorithms Resources
 
 * [Visualizing Algorithms](https://visualgo.net/en). provides free interactive demos for learning Algorithms.
