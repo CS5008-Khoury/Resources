@@ -14,7 +14,7 @@ Be sure to have these resources available and handy, we'll be using referencing 
 
 ## O'Reilly Online: Books and Videos
 As an NU student, you have access to a phenomenal resource through the NU Library: O'Reilly Online. 
-1. Go to the NU library page here https://subjectguides.lib.neu.edu/compsciLinks to an external site. 
+1. Go to the NU library page here https://subjectguides.lib.neu.edu/compsci to an external site. 
 2. Click on "Connect to O'Reilly" in the lower left hand corner
 3. For institution, select "Not listed"
 4. Put in your northeastern.edu email and continue with authentication
@@ -51,3 +51,13 @@ As a reminder, Northeastern students have access to linkedln learning. The follo
 * [Head First Git](https://learning.oreilly.com/library/view/head-first-git/9781492092506/), book: Available on O'Reilly
 * [Github Basics](https://guides.github.com/introduction/git-handbook/), a guide for learning GitHub
 * [Visualizing Git](http://git-school.github.io/visualizing-git/) is useful for learners who want to know what is going on behind the scenes
+
+
+## Module Specific Resources
+
+The following resources are copies of the links provided in each of the modules. 
+
+### Hello Linux, Hello C
+* [Windows Subsystem For Linux](https://github.com/CS5008-Khoury/Resources/blob/main/InstallC.md#windows-subsystem-for-linux-wsl)
+* [Dive Into Systems: Using Unix](https://diveintosystems.org/book/Appendix2/index.html)
+* [The Linux Command Line](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/)
