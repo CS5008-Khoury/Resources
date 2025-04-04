@@ -1,10 +1,12 @@
-# other-stuff
+# Course Resources
 
-Random other stuff such as handouts, help guides, etc
+The following are a series of resources for the course. 
 
+* [Resources](Resources.md) - Start Here, this provides access to the books for the course and a list of additional resources. Much of it you won't need until later in the semester, but good to start and make sure you have access to the resources.
 
-* [Help Docs](HelpDocs.md) - This is a list of issues that are common for students, and will eventually be updated as issues change. It may not be the most up to date, so if you have any questions, please ask your instructor.
+* [InstallC](InstallC.md) - You will need to run the C installer for this course. Follow one of these recommendations. 
 
-* [Utilities](utilities) - Random helper files used in the course that have no other home.
+* [Technical Interview Questions](TechInterviewQuestions.md) - These are questions developed by past students to help with the question and answer portion of the technical interviews. They are technical focused questions aligning with the course modules. You are encouraged to practice them with your fellow classmates. 
 
-* [Resources](resources.md) - An ongoing list of resources submitted by students and updated by TAs. 
+* [Leet Code Practice](LeetCodePractice.md) - These are leet code questions selected by past students. You are encouraged to practice at least one leet code weekly to help you prepare for live coding activities, and further your understanding of data structures. 
+
