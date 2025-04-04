@@ -73,3 +73,8 @@ The following resources are copies of the links provided in each of the modules.
 * [Windows Subsystem For Linux](https://github.com/CS5008-Khoury/Resources/blob/main/InstallC.md#windows-subsystem-for-linux-wsl)
 * [Dive Into Systems: Using Unix](https://diveintosystems.org/book/Appendix2/index.html)
 * [The Linux Command Line](https://learning.oreilly.com/library/view/the-linux-command/9781492071235/)
+* [Windows 10 - enabling ssh](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/)
+* [By the C, by the C, by the Beautiful C](https://diveintosystems.org/book/C1-C_intro/index.html)
+* [Effective C](https://learning.oreilly.com/library/view/effective-c-2nd/9781098182496/)
+* [C Programming for Dummies](https://learning.oreilly.com/library/view/c-programming-for/9781119740247/)
+  
