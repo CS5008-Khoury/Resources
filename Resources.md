@@ -2,6 +2,18 @@
 
 The following resources are a *starting* point for resources. These often change, and students are encouraged to submit updates and changes. 
 
+- [Resources](#resources)
+  - [Course Text Books](#course-text-books)
+  - [O'Reilly Online: Books and Videos](#oreilly-online-books-and-videos)
+  - [Algorithms Resources](#algorithms-resources)
+    - [Advanced Resources that you may wish to consult as you prepare for CS 5800](#advanced-resources-that-you-may-wish-to-consult-as-you-prepare-for-cs-5800)
+  - [C Programming Resources](#c-programming-resources)
+    - [Popular Linkedln Learning Courses](#popular-linkedln-learning-courses)
+  - [Git Resources](#git-resources)
+  - [Module Specific Resources](#module-specific-resources)
+    - [Hello Linux, Hello C](#hello-linux-hello-c)
+
+
 ## Course Text Books
 
 As stated in the syllabus, while there is no required textbook for this course, there are two strongly, strongly recommended textbooks, both of which are available freely online. 
