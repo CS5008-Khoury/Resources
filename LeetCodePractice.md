@@ -8,8 +8,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 - [Coding Practice Repository](#coding-practice-repository)
     - [Legend](#legend)
-  - [Module 02: The C Programming Language: Intro to C, pointers, and arrays](#module-02-the-c-programming-language-intro-to-c-pointers-and-arrays)
-  - [Module 03: Assembly, Systems, Files (more C practice)](#module-03-assembly-systems-files-more-c-practice)
+  - [C Programming Practice](#c-programming-practice)
   - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
   - [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
   - [Module 06: Dynamic Programming](#module-06-dynamic-programming)
@@ -23,19 +22,12 @@ The problems selected are valid for the module and any preceding modules. As suc
 🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
 
 
-## Module 02: The C Programming Language: Intro to C, pointers, and arrays
-
+## C Programming Practice 
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [1. Two Sum] | 🟢 Easy |
 | [125. Valid Palindrome] | 🟢 Easy |
 | [977. Squares of a Sorted Array] | 🟢 Easy |
-
-
-## Module 03: Assembly, Systems, Files (more C practice)
-
-| Problem  | Difficulty |
-| -------- | ---------- |
 | [27. Remove Element] | 🟢 Easy |
 | [268. Missing Number] | 🟢 Easy |
 | [344. Reverse String] | 🟢 Easy |
@@ -44,7 +36,6 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [53. Maximum Subarray] | 🟡 Medium |
 | [147. Insertion Sort List] | 🟡 Medium |
 | [905. Sort Array By Parity] | 🟢 Easy |
 | [922. Sort Array By Parity II] | 🟢 Easy |
