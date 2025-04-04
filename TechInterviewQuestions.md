@@ -1,10 +1,36 @@
 # Technical Interview Questions
 
 A collection of technical interview questions to be explored each module. 
+- [Technical Interview Questions](#technical-interview-questions)
+  - [Github and Linux](#github-and-linux)
+    - [Github](#github)
+    - [Linux](#linux)
+  - [C Programming](#c-programming)
+  - [Module 3 - Systems and Files](#module-3---systems-and-files)
+  - [Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts](#module-4---introduction-to-analysis-of-algorithms-quadratic-sorts)
+    - [4.1 Analysis of Algorithms](#41-analysis-of-algorithms)
+    - [4.2 Quadratic Sorts](#42-quadratic-sorts)
+  - [Module 5 - Recursion, Efficient Sorting](#module-5---recursion-efficient-sorting)
+    - [5.1 Recursion](#51-recursion)
+    - [5.2 Efficient Sorting](#52-efficient-sorting)
+  - [Module 6 - Dynamic Programming](#module-6---dynamic-programming)
+  - [Module 8 - Stacks, Queues, and Linked Lists](#module-8---stacks-queues-and-linked-lists)
+    - [8.1 Stacks](#81-stacks)
+    - [8.2 Queues](#82-queues)
+    - [8.3 Linked Lists](#83-linked-lists)
+  - [Module 9 - Trees and Heaps](#module-9---trees-and-heaps)
+    - [9.1 Trees](#91-trees)
+    - [Heaps](#heaps)
+  - [Module 10 - Graphs](#module-10---graphs)
+  - [Module 11 - Greedy Algorithms](#module-11---greedy-algorithms)
+  - [Module 12 - Hash Tables](#module-12---hash-tables)
+  - [Module 13 - Primer on Proofs](#module-13---primer-on-proofs)
+  - [Module 14 - Complex Data Structures/Further Thinking - Additional Questions](#module-14---complex-data-structuresfurther-thinking---additional-questions)
 
-## Module 1 - Github and Linux
 
-### 1.1 Github
+## Github and Linux
+
+### Github
 
 * Explain the difference between Git and GitHub. Further, explain the concept of version control and how it can help with collaboration in software development.
 
@@ -14,7 +40,7 @@ A collection of technical interview questions to be explored each module.
 
 * You and your partner pull the same file from Github to make changes. You both change the same section of code. Your partner pushes their changes first, then you try to push. What is the result and how do you resolve this?
 
-### 1.2 Linux
+### Linux
 
 * What exactly is a terminal and why is it important?
 
@@ -24,7 +50,7 @@ A collection of technical interview questions to be explored each module.
 
 * What are the three types of file permissions in Linux and how do you change them using __chmod__?
 
-## Module 2 - C Programming
+## C Programming
 
 * What is the difference between a compiled and an interpreted language? Which one is better? Give an example of each.
 
