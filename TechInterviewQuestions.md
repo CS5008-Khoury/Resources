@@ -5,8 +5,8 @@ A collection of technical interview questions to be explored each module.
   - [Github and Linux](#github-and-linux)
     - [Github](#github)
     - [Linux](#linux)
-  - [C Programming](#c-programming)
-  - [Module 3 - Systems and Files](#module-3---systems-and-files)
+  - [C and the Stack](#c-and-the-stack)
+  - [C, The Heap, and Executables](#c-the-heap-and-executables)
   - [Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts](#module-4---introduction-to-analysis-of-algorithms-quadratic-sorts)
     - [4.1 Analysis of Algorithms](#41-analysis-of-algorithms)
     - [4.2 Quadratic Sorts](#42-quadratic-sorts)
@@ -50,23 +50,21 @@ A collection of technical interview questions to be explored each module.
 
 * What are the three types of file permissions in Linux and how do you change them using __chmod__?
 
-## C Programming
+## C and the Stack
+<!-- add more here -->
 
 * What is the difference between a compiled and an interpreted language? Which one is better? Give an example of each.
 
 * What is the difference between a static and a dynamic programming language? What are the pros and cons of each?
 
-* What is the difference between stack and heap memory allocation and when would you use each?
-
 * What is a pointer? What is the relationship between pointers and arrays in C?
 
-* What is a memory leak and how do you identify it and prevent it?
+## C, The Heap, and Executables
 
-* What is a segmentation fault? What tactics can you use to find where the segmentation fault occured?
-
+<!-- add more -->
+* What is the difference between stack and heap memory allocation and when would you use each?
+  
 * What is a header (.h) file and how does it differ from a source file? Why do we use header files?
-
-## Module 3 - Systems and Files
 
 * Explain the process of pre-compiling.
 
@@ -74,9 +72,9 @@ A collection of technical interview questions to be explored each module.
 
 * Explain the process of opening, reading, writing, and closing a file in C. What do we need to watch out for?
 
-* What does __fseek__ do and what is its significance in file handling operations?
-
 * What is the fetch-decode-execute cycle, and how does it relate to program execution?
+
+* What is a memory leak and how do you identify it and prevent it?
 
 ## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
 
