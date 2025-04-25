@@ -18,6 +18,7 @@ The following resources are a *starting* point for resources. These often change
     - [Command Line Editors](#command-line-editors)
   - [Module Specific Resources](#module-specific-resources)
     - [Hello Linux, Hello C](#hello-linux-hello-c)
+    - [C and the Memory Stack](#c-and-the-memory-stack)
 
 
 ## Course Text Books
@@ -125,3 +126,13 @@ The following resources are copies of the links provided in each of the modules.
 * [Effective C](https://learning.oreilly.com/library/view/effective-c-2nd/9781098182496/)
 * [C Programming for Dummies](https://learning.oreilly.com/library/view/c-programming-for/9781119740247/)
   
+
+### C and the Memory Stack
+
+* Dive into Systems
+  * [Part of Program Memory and Scope](https://diveintosystems.org/book/C2-C_depth/scope_memory.html)
+  * [Binary Data and Representation](https://diveintosystems.org/book/C4-Binary/index.html)
+  * [C Pointers](https://diveintosystems.org/book/C2-C_depth/pointers.html)
+  * [Pointers and Functions](https://diveintosystems.org/book/C2-C_depth/pointers_functions.html)
+  * [Arrays and Strings](https://diveintosystems.org/book/C1-C_intro/arrays_strings.html)
+  * [Structs](https://diveintosystems.org/book/C1-C_intro/structs.html)
