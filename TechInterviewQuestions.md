@@ -7,25 +7,25 @@ A collection of technical interview questions to be explored each module.
     - [Linux](#linux)
   - [C and the Stack](#c-and-the-stack)
   - [C, The Heap, and Executables](#c-the-heap-and-executables)
-  - [Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts](#module-4---introduction-to-analysis-of-algorithms-quadratic-sorts)
-    - [4.1 Analysis of Algorithms](#41-analysis-of-algorithms)
-    - [4.2 Quadratic Sorts](#42-quadratic-sorts)
-  - [Module 5 - Recursion, Efficient Sorting](#module-5---recursion-efficient-sorting)
-    - [5.1 Recursion](#51-recursion)
-    - [5.2 Efficient Sorting](#52-efficient-sorting)
-  - [Module 6 - Dynamic Programming](#module-6---dynamic-programming)
-  - [Module 8 - Stacks, Queues, and Linked Lists](#module-8---stacks-queues-and-linked-lists)
-    - [8.1 Stacks](#81-stacks)
-    - [8.2 Queues](#82-queues)
-    - [8.3 Linked Lists](#83-linked-lists)
-  - [Module 9 - Trees and Heaps](#module-9---trees-and-heaps)
-    - [9.1 Trees](#91-trees)
+  - [Introduction to Analysis of Algorithms, Quadratic Sorts](#introduction-to-analysis-of-algorithms-quadratic-sorts)
+    - [Analysis of Algorithms](#analysis-of-algorithms)
+    - [Quadratic Sorts](#quadratic-sorts)
+  - [Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
+    - [Recursion](#recursion)
+    - [Efficient Sorting](#efficient-sorting)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Stacks, Queues, and Linked Lists](#stacks-queues-and-linked-lists)
+    - [Stacks](#stacks)
+    - [Queues](#queues)
+    - [Linked Lists](#linked-lists)
+  - [Trees and Heaps](#trees-and-heaps)
+    - [Trees](#trees)
     - [Heaps](#heaps)
-  - [Module 10 - Graphs](#module-10---graphs)
-  - [Module 11 - Greedy Algorithms](#module-11---greedy-algorithms)
-  - [Module 12 - Hash Tables](#module-12---hash-tables)
-  - [Module 13 - Primer on Proofs](#module-13---primer-on-proofs)
-  - [Module 14 - Complex Data Structures/Further Thinking - Additional Questions](#module-14---complex-data-structuresfurther-thinking---additional-questions)
+  - [Graphs](#graphs)
+  - [Greedy Algorithms](#greedy-algorithms)
+  - [Hash Tables](#hash-tables)
+  - [Primer on Proofs](#primer-on-proofs)
+  - [Complex Data Structures/Further Thinking - Additional Questions](#complex-data-structuresfurther-thinking---additional-questions)
 
 
 ## Github and Linux
@@ -76,15 +76,15 @@ A collection of technical interview questions to be explored each module.
 
 * What is a memory leak and how do you identify it and prevent it?
 
-## Module 4 - Introduction to Analysis of Algorithms, Quadratic Sorts
+## Introduction to Analysis of Algorithms, Quadratic Sorts
 
-### 4.1 Analysis of Algorithms
+### Analysis of Algorithms
 
 * What is Big O? How does it help us analyze algorithms?
 
 * When would we want an algorithm with a higher time complexity than another faster algorithm?
 
-### 4.2 Quadratic Sorts
+### Quadratic Sorts
 
 * Explain the time and space complexity of Bubble, Selection, and Insertion sort.
 
@@ -97,33 +97,33 @@ A collection of technical interview questions to be explored each module.
 * You are provided with a large data set of student grades for CS 5008. You want to sort the grades in ascending order. Which Quadratic Sort would you choose and why? 
     * Follow up, now that you've sorted the grades, you need to sort alphabetically while preserving the relative order of the sorted grades. Which sort would you use and why?
 
-## Module 5 - Recursion, Efficient Sorting  
+##  Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort) 
 
-### 5.1 Recursion
+### Recursion
 
 * What is recursion? How does a recursive algorithm exit?
 
 * Describe a scenario when you would want to use recursion and a scenario where you wouldn't.
 
-### 5.2 Efficient Sorting
+### Efficient Sorting
 
 * Explain how Merge Sort works and what is its time and space complexity?
 
-## Module 6 - Dynamic Programming
+## Dynamic Programming
 
 * What is Dynamic Programming and when would we want to use it? When wouldn't we?
 
 * Dynamic Programming solves a common recursive issue of repeated calculations. So, when would we want to use recursion instead of Dynamic Programming?
 
-## Module 8 - Stacks, Queues, and Linked Lists
+## Stacks, Queues, and Linked Lists
 
-### 8.1 Stacks
+### Stacks
 
 * Explain LIFO and provide examples of real world applications of LIFO.
 
 * Your're in charge of implementing a web browser's "back" button functionality. How would you implement it and what operations would you need to supply.
 
-### 8.2 Queues
+### Queues
 
 * Explain FIFO and provide examples of real world applications of FIFO.
 
@@ -131,7 +131,7 @@ A collection of technical interview questions to be explored each module.
 
 * Explain what a priority queue is. How does it differ from a regular queue, and what are its use cases?
 
-### 8.3 Linked Lists
+### Linked Lists
 
 * Discuss the differences of an array and a linked list. When would you want to use one over the other?
 
@@ -143,9 +143,9 @@ A collection of technical interview questions to be explored each module.
 
 * Explain how to reverse a linked list without using any additional data structures (in place).
 
-## Module 9 - Trees and Heaps
+## Trees and Heaps
 
-### 9.1 Trees
+### Trees
 
 * Discuss what a binary tree is. What is a full and what is a complete binary tree?
 
@@ -161,7 +161,7 @@ A collection of technical interview questions to be explored each module.
 
 * How does a heap differ from an array or a linked list? When would you prefer to use a heap?
 
-## Module 10 - Graphs
+## Graphs
 
 * What is a graph and its various components? What is a directed vs. undirected graph? Provide some real world uses for each.
 
@@ -169,13 +169,13 @@ A collection of technical interview questions to be explored each module.
 
 * Explain the difference between BFS and DFS. What are some applications of each?
 
-## Module 11 - Greedy Algorithms 
+##  Greedy Algorithms 
 
 * Explain the concept of a greedy algorithm. When would you want to apply one?
 
 * What are some scenarios when you wouldn't want to apply a greedy algorithm?
 
-## Module 12 - Hash Tables
+## Hash Tables
 
 * Explain what a hash table is. What is the process of hashing?
 
@@ -187,10 +187,10 @@ A collection of technical interview questions to be explored each module.
 
 * Explain what a collision is and what are some techniques for handling collisions?
 
-## Module 13 - Primer on Proofs
+## Primer on Proofs
 
 * What is the difference between a direct proof, an indirect proof, and proof by induction? When would you use each proof over another?
 
-## Module 14 - Complex Data Structures/Further Thinking - Additional Questions
+## Complex Data Structures/Further Thinking - Additional Questions
 
 * Example, asking about a what multiple data structures would be best to recreate a python dictionary
