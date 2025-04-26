@@ -10,7 +10,7 @@ A collection of technical interview questions to be explored each module.
   - [Introduction to Analysis of Algorithms, Quadratic Sorts](#introduction-to-analysis-of-algorithms-quadratic-sorts)
     - [Analysis of Algorithms](#analysis-of-algorithms)
     - [Quadratic Sorts](#quadratic-sorts)
-  - [Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
+  - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
     - [Recursion](#recursion)
     - [Efficient Sorting](#efficient-sorting)
   - [Dynamic Programming](#dynamic-programming)
@@ -97,7 +97,7 @@ A collection of technical interview questions to be explored each module.
 * You are provided with a large data set of student grades for CS 5008. You want to sort the grades in ascending order. Which Quadratic Sort would you choose and why? 
     * Follow up, now that you've sorted the grades, you need to sort alphabetically while preserving the relative order of the sorted grades. Which sort would you use and why?
 
-##  Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort) 
+##  Efficient Sorting with Divide and Conquer Sorts 
 
 ### Recursion
 

@@ -21,6 +21,7 @@ The following resources are a *starting* point for resources. These often change
     - [C and the Memory Stack](#c-and-the-memory-stack)
     - [C, The Heap, and Executables](#c-the-heap-and-executables)
     - [Algorithms and Quadratic Sorts](#algorithms-and-quadratic-sorts)
+    - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
 
 
 ## Course Text Books
@@ -164,3 +165,11 @@ The following resources are copies of the links provided in each of the modules.
 * [Bubble Sort in 3 Minutes](https://www.youtube.com/watch?v=xli_FI7CuzA)
 * [Selection Sort in 3 Minutes](https://www.youtube.com/watch?v=g-PGLbMth_g)
 * [Insertion Sort in 2 Minutes](https://www.youtube.com/watch?v=JU767SDMDvA)
+
+### Efficient Sorting with Divide and Conquer Sorts
+
+* [Grokking Algorithms - Recursion](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/03.html)
+* [Grokking Algorithms - QuickSort](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/04.html)
+* [Sorting Visualizations](https://visualgo.net/en/sorting?slide=1)
+* [Merge Sort in 3 Minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+* [Quick Sort in 4 Minutes](https://www.youtube.com/watch?v=Hoixgm4-P4M)

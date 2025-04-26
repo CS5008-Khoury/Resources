@@ -10,7 +10,7 @@ The problems selected are valid for the module and any preceding modules. As suc
     - [Legend](#legend)
   - [C Programming Practice](#c-programming-practice)
   - [Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
-  - [Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
+  - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
   - [Dynamic Programming](#dynamic-programming)
   - [Sequential Data Structures](#sequential-data-structures)
   - [Trees](#trees)
@@ -41,7 +41,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [922. Sort Array By Parity II] | 🟢 Easy |
 | [1636. Sort Array by Increasing Frequency] | 🟢 Easy |
 
-## Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
+## Efficient Sorting with Divide and Conquer Sorts
 
 | Problem  | Difficulty |
 | -------- | ---------- |
