@@ -20,14 +20,15 @@ The following resources are a *starting* point for resources. These often change
     - [Hello Linux, Hello C](#hello-linux-hello-c)
     - [C and the Memory Stack](#c-and-the-memory-stack)
     - [C, The Heap, and Executables](#c-the-heap-and-executables)
+    - [Algorithms and Quadratic Sorts](#algorithms-and-quadratic-sorts)
 
 
 ## Course Text Books
 
 As stated in the syllabus, while there is no required textbook for this course, there are two strongly, strongly recommended textbooks, both of which are available freely online. 
 
-Grokking Algorithms, 1st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis.
-Available here: https://learning.oreilly.com/library/view/grokking-algorithms/9781617292231/. See instructions that follow for how to access it for free using your Northeastern University account. 
+Grokking Algorithms, 2st Edition by Aditya Bhargava is friendly guide on for learning algorithms as they apply to practical problems faced by programmers on a regular basis.
+Available here: https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/. See instructions that follow for how to access it for free using your Northeastern University account. 
 
 [Dive Into Systems](https://diveintosystems.org/book/preface.html), by Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb. A free, online textbook on computer systems and C.
 Be sure to have these resources available and handy, we'll be using referencing them throughout the semester. The additional resources below should be used if you find you don't understand some element of the course, or if you want to dig deeper into these topics. As always, you can ask which of these resources would be best if you have specific questions. 
@@ -153,3 +154,13 @@ The following resources are copies of the links provided in each of the modules.
 * [Under the C: Diving into Assembly](https://diveintosystems.org/book/C6-asm_intro/index.html)
 * [Assembly Key Takeaways](https://diveintosystems.org/book/C10-asm_takeaways/index.html)
 * [Compiler Explorer](https://godbolt.org/#g:!((g:!((g:!((h:codeEditor,i:(filename:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,selection:(endColumn:1,endLineNumber:5,positionColumn:1,positionLineNumber:5,selectionStartColumn:1,selectionStartLineNumber:5,startColumn:1,startLineNumber:5),source:'/*+Type+your+code+here,+or+load+an+example.+*/%0Aint+square(int+num)+%7B%0A++++return+num+*+num%3B%0A%7D%0A'),l:'5',n:'0',o:'C+source+%231',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0'),(g:!((h:compiler,i:(compiler:cg151,filters:(b:'0',binary:'1',binaryObject:'1',commentOnly:'0',debugCalls:'1',demangle:'0',directives:'0',execute:'1',intel:'0',libraryCode:'0',trim:'1',verboseDemangling:'0'),flagsViewOpen:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,libs:!(),options:'',overrides:!(),selection:(endColumn:1,endLineNumber:1,positionColumn:1,positionLineNumber:1,selectionStartColumn:1,selectionStartLineNumber:1,startColumn:1,startLineNumber:1),source:1),l:'5',n:'0',o:'+x86-64+gcc+15.1+(Editor+%231)',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0')),l:'2',n:'0',o:'',t:'0')),version:4)
+
+### Algorithms and Quadratic Sorts  
+
+* [Grokking Algorithms Chapter 1](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/01.html)
+* [Grokking Algorithms Selection Sort](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/02.html#heading_id_3)
+* [Grokking Data Structures  - Big O Notation](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/04.html#heading_id_3)
+* [Sorting Visualizations](https://visualgo.net/en/sorting?slide=1)
+* [Bubble Sort in 3 Minutes](https://www.youtube.com/watch?v=xli_FI7CuzA)
+* [Selection Sort in 3 Minutes](https://www.youtube.com/watch?v=g-PGLbMth_g)
+* [Insertion Sort in 2 Minutes](https://www.youtube.com/watch?v=JU767SDMDvA)
