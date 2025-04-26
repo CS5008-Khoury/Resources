@@ -9,14 +9,14 @@ The problems selected are valid for the module and any preceding modules. As suc
 - [Coding Practice Repository](#coding-practice-repository)
     - [Legend](#legend)
   - [C Programming Practice](#c-programming-practice)
-  - [Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#module-04-introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
-  - [Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#module-05-sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
-  - [Module 06: Dynamic Programming](#module-06-dynamic-programming)
-  - [Module 08: Sequential Data Structures](#module-08-sequential-data-structures)
-  - [Module 09: Trees](#module-09-trees)
-  - [Module 10: Graphs](#module-10-graphs)
-  - [Module 11: Greedy Algorithms](#module-11-greedy-algorithms)
-  - [Module 12: Hashmaps](#module-12-hashmaps)
+  - [Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
+  - [Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)](#sort-analysis-recursion-efficient-sorting-mergesort-quicksort)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Sequential Data Structures](#sequential-data-structures)
+  - [Trees](#trees)
+  - [Graphs](#graphs)
+  - [Greedy Algorithms](#greedy-algorithms)
+  - [Hashmaps](#hashmaps)
 
 ### Legend
 🔴🟠🟡🟢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
@@ -32,7 +32,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [268. Missing Number] | 🟢 Easy |
 | [344. Reverse String] | 🟢 Easy |
 
-## Module 04: Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
+## Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -41,7 +41,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [922. Sort Array By Parity II] | 🟢 Easy |
 | [1636. Sort Array by Increasing Frequency] | 🟢 Easy |
 
-## Module 05: Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
+## Sort Analysis, Recursion, Efficient Sorting (MergeSort, QuickSort)
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -53,7 +53,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [231. Power of Two] | 🟢 Easy |
 | [912. Sort an Array] | 🟡 Medium |
 
-## Module 06: Dynamic Programming
+## Dynamic Programming
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -69,9 +69,8 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [1137. N-th Tribonacci Number] | 🟢 Easy |
 | [1646. Get Maximum in Generated Array] | 🟢 Easy |
 
-Note: Module 07 is skipped as it is the midterm. 
 
-## Module 08: Sequential Data Structures
+## Sequential Data Structures
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -86,7 +85,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [1732. Find the Highest Altitude] | 🟢 Easy |
 
 
-## Module 09: Trees
+## Trees
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -102,7 +101,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [701. Insert into a Binary Search Tree] | 🟡 Medium |
 | [1302. Deepest Leaves Sum] | 🟡 Medium |
 
-## Module 10: Graphs
+## Graphs
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -114,7 +113,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [797. All Paths From Source to Target] | 🟡 Medium |
 | [1791. Find Center of Star Graph] | 🟢 Easy |
 
-## Module 11: Greedy Algorithms
+## Greedy Algorithms
 
 | Problem  | Difficulty |
 | -------- | ---------- |
@@ -122,7 +121,7 @@ Note: Module 07 is skipped as it is the midterm.
 | [1338. Reduce Array Size to The Half] | 🟡 Medium |
 | [1710. Maximum Units on a Truck] | 🟢 Easy |
 
-## Module 12: Hashmaps
+## Hashmaps
 
 | Problem  | Difficulty |
 | -------- | ---------- |
