@@ -19,6 +19,7 @@ The following resources are a *starting* point for resources. These often change
   - [Module Specific Resources](#module-specific-resources)
     - [Hello Linux, Hello C](#hello-linux-hello-c)
     - [C and the Memory Stack](#c-and-the-memory-stack)
+    - [C, The Heap, and Executables](#c-the-heap-and-executables)
 
 
 ## Course Text Books
@@ -139,5 +140,16 @@ The following resources are copies of the links provided in each of the modules.
 
 ### C, The Heap, and Executables
 
-* 
+* [Dynamic Memory](https://diveintosystems.org/book/C3-C_debug/index.html)
+* [C Debugging Tools](https://diveintosystems.org/book/C3-C_debug/index.html)
+* [Code Optimization in C](https://diveintosystems.org/book/C12-CodeOpt/index.html)
+* [Valgrind Quick Start](https://valgrind.org/docs/manual/quick-start.html)
+* [Option to install Valgrind on Mac](https://hatchjs.com/installing-valgrind-on-mac/)
+* [Leaks on MacOS](https://computerscience.chemeketa.edu/guides/valgrind/leaks/)
+* [Online GDB](https://www.onlinegdb.com/)
+* [Geeks for Geeks - Guide to GDB](https://www.geeksforgeeks.org/gdb-step-by-step-introduction/)
+* [Advanced C Features](https://diveintosystems.org/book/C2-C_depth/advanced.html)
+* [The von Neumann Architecture](https://diveintosystems.org/book/C5-Arch/von.html)
+* [Under the C: Diving into Assembly](https://diveintosystems.org/book/C6-asm_intro/index.html)
+* [Assembly Key Takeaways](https://diveintosystems.org/book/C10-asm_takeaways/index.html)
 * [Compiler Explorer](https://godbolt.org/#g:!((g:!((g:!((h:codeEditor,i:(filename:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,selection:(endColumn:1,endLineNumber:5,positionColumn:1,positionLineNumber:5,selectionStartColumn:1,selectionStartLineNumber:5,startColumn:1,startLineNumber:5),source:'/*+Type+your+code+here,+or+load+an+example.+*/%0Aint+square(int+num)+%7B%0A++++return+num+*+num%3B%0A%7D%0A'),l:'5',n:'0',o:'C+source+%231',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0'),(g:!((h:compiler,i:(compiler:cg151,filters:(b:'0',binary:'1',binaryObject:'1',commentOnly:'0',debugCalls:'1',demangle:'0',directives:'0',execute:'1',intel:'0',libraryCode:'0',trim:'1',verboseDemangling:'0'),flagsViewOpen:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,libs:!(),options:'',overrides:!(),selection:(endColumn:1,endLineNumber:1,positionColumn:1,positionLineNumber:1,selectionStartColumn:1,selectionStartLineNumber:1,startColumn:1,startLineNumber:1),source:1),l:'5',n:'0',o:'+x86-64+gcc+15.1+(Editor+%231)',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0')),l:'2',n:'0',o:'',t:'0')),version:4)
