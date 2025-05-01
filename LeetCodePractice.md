@@ -36,7 +36,6 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem  | Difficulty |
 | -------- | ---------- |
-| [147. Insertion Sort List] | 🟡 Medium |
 | [905. Sort Array By Parity] | 🟢 Easy |
 | [922. Sort Array By Parity II] | 🟢 Easy |
 | [1636. Sort Array by Increasing Frequency] | 🟢 Easy |
@@ -76,6 +75,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | -------- | ---------- |
 | [92. Reverse Linked List II] | 🟡 Medium |
 | [141. Linked List Cycle] | 🟢 Easy |
+| [147. Insertion Sort List] | 🟡 Medium |
 | [160. Intersection of Two Linked Lists] | 🟢 Easy |
 | [203. Remove Linked List Elements] | 🟢 Easy |
 | [206. Reverse Linked List] | 🟢 Easy |
