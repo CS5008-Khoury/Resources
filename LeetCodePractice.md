@@ -23,15 +23,18 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 ## C Programming Practice
 
-| Problem                          | Difficulty |
-| -------------------------------- | ---------- |
-| [1. Two Sum]                     | ?Ÿ¢ Easy    |
-| [27. Remove Element]             | ?Ÿ¢ Easy    |
-| [125. Valid Palindrome]          | ?Ÿ¢ Easy    |
-| [217. Contains Duplicate]        | ?Ÿ¢ Easy    |
-| [268. Missing Number]            | ?Ÿ¢ Easy    |
-| [344. Reverse String]            | ?Ÿ¢ Easy    |
-| [977. Squares of a Sorted Array] | ?Ÿ¢ Easy    |
+| Problem                                          | Difficulty |
+| ------------------------------------------------ | ---------- |
+| [1. Two Sum]                                     | ?Ÿ¢ Easy    |
+| [27. Remove Element]                             | ?Ÿ¢ Easy    |
+| [125. Valid Palindrome]                          | ?Ÿ¢ Easy    |
+| [217. Contains Duplicate]                        | ?Ÿ¢ Easy    |
+| [268. Missing Number]                            | ?Ÿ¢ Easy    |
+| [344. Reverse String]                            | ?Ÿ¢ Easy    |
+| [977. Squares of a Sorted Array]                 | ?Ÿ¢ Easy    |
+| ["Hello World!" in C \| HackerRank]              |            |
+| [Pointers in C \| HackerRank]                    | ?Ÿ¢ Easy    |
+| [Sum and Difference of Two Numbers\| HackerRank] | ?Ÿ¢ Easy    |
 
 ## Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
@@ -67,6 +70,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [746. Min Cost Climbing Stairs]         | ?Ÿ¢ Easy    |
 | [1043. Partition Array for Maximum Sum] | ?Ÿ¡ Medium  |
 | [1137. N-th Tribonacci Number]          | ?Ÿ¢ Easy    |
+| [1143. Longest Common Subsequence]      | ?Ÿ¡ Medium  |
 | [1646. Get Maximum in Generated Array]  | ?Ÿ¢ Easy    |
 
 ## Sequential Data Structures
@@ -82,6 +86,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [206. Reverse Linked List]                | ?Ÿ¢ Easy    |
 | [217. Contains Duplicate]                 | ?Ÿ¢ Easy    |
 | [225. Implement Stack using Queues]       | ?Ÿ¢ Easy    |
+| [300. Longest Increasing Subsequence]     | ?Ÿ¡ Medium  |
 | [946. Validate Stack Sequences]           | ?Ÿ¡ Medium  |
 | [876. Middle of the Linked List]          | ?Ÿ¡ Medium  |
 | [1732. Find the Highest Altitude]         | ?Ÿ¢ Easy    |
@@ -98,6 +103,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [144. Binary Tree Preorder Traversal]   | ?Ÿ¢ Easy    |
 | [145. Binary Tree Postorder Traversal]  | ?Ÿ¢ Easy    |
 | [543. Diameter of Binary Tree]          | ?Ÿ¢ Easy    |
+| [572. Subtree of Another Tree]          | ?Ÿ¢ Easy    |
 | [700. Search in a Binary Search Tree]   | ?Ÿ¢ Easy    |
 | [701. Insert into a Binary Search Tree] | ?Ÿ¡ Medium  |
 | [1302. Deepest Leaves Sum]              | ?Ÿ¡ Medium  |
@@ -113,17 +119,21 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [119. Pascal's Triangle II]                 | ?Ÿ¢ Easy    |
 | [200. Number of Islands]                    | ?Ÿ¡ Medium  |
 | [797. All Paths From Source to Target]      | ?Ÿ¡ Medium  |
+| [997. Find the Town Judge]                  | ?Ÿ¢ Easy    |
 | [1791. Find Center of Star Graph]           | ?Ÿ¢ Easy    |
+| [1971. Find if Path Exists in Graph]        | ?Ÿ¢ Easy    |
 
 ## Greedy Algorithms
 
 | Problem                               | Difficulty |
 | ------------------------------------- | ---------- |
 | [53. Maximum Subarray]                | ?Ÿ¡ Medium  |
+| [409. Longest Palindrome]             | ?Ÿ¢ Easy    |
+| [605. Can Place Flowers]              | ?Ÿ¢ Easy    |
+| [678. Valid Parenthesis String]       | ?Ÿ¡ Medium  |
 | [1323. Maximum 69 Number]             | ?Ÿ¢ Easy    |
 | [1338. Reduce Array Size to The Half] | ?Ÿ¡ Medium  |
 | [1710. Maximum Units on a Truck]      | ?Ÿ¢ Easy    |
-| [678. Valid Parenthesis String]       | ?Ÿ¡ Medium  |
 
 ## Hashmaps
 
@@ -223,3 +233,23 @@ The problems selected are valid for the module and any preceding modules. As suc
 [200. Number of Islands]: https://leetcode.com/problems/number-of-islands/description/
 
 [678. Valid Parenthesis String]: https://leetcode.com/problems/valid-parenthesis-string/description/
+
+[572. Subtree of Another Tree]:https://leetcode.com/problems/subtree-of-another-tree/description/
+
+[300. Longest Increasing Subsequence]:https://leetcode.com/problems/longest-increasing-subsequence/description/
+
+[1143. Longest Common Subsequence]:https://leetcode.com/problems/longest-common-subsequence/description/
+
+[1971. Find if Path Exists in Graph]:https://leetcode.com/problems/find-if-path-exists-in-graph/description/
+
+[997. Find the Town Judge]:https://leetcode.com/problems/find-the-town-judge/description/
+
+[409. Longest Palindrome]:https://leetcode.com/problems/longest-palindrome/description/
+
+[605. Can Place Flowers]: https://leetcode.com/problems/can-place-flowers/description/
+
+[Pointers in C | HackerRank]: https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
+
+[Sum and Difference of Two Numbers| HackerRank]:https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
+
+ ["Hello World!" in C | HackerRank]:https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
