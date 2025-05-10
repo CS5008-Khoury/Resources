@@ -19,135 +19,135 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 ### Legend
 
-?”´?Ÿ ?Ÿ¡?Ÿ¢  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
+:orange_circle: :yellow_circle: :green_circle:  - show the difficulty of the problems as listed on the LeetCode or HackerRank website. 
 
 ## C Programming Practice
 
 | Problem                                          | Difficulty |
 | ------------------------------------------------ | ---------- |
-| [1. Two Sum]                                     | ?Ÿ¢ Easy    |
-| [27. Remove Element]                             | ?Ÿ¢ Easy    |
-| [125. Valid Palindrome]                          | ?Ÿ¢ Easy    |
-| [217. Contains Duplicate]                        | ?Ÿ¢ Easy    |
-| [268. Missing Number]                            | ?Ÿ¢ Easy    |
-| [344. Reverse String]                            | ?Ÿ¢ Easy    |
-| [977. Squares of a Sorted Array]                 | ?Ÿ¢ Easy    |
-| ["Hello World!" in C \| HackerRank]              |            |
-| [Pointers in C \| HackerRank]                    | ?Ÿ¢ Easy    |
-| [Sum and Difference of Two Numbers\| HackerRank] | ?Ÿ¢ Easy    |
+| [1. Two Sum]                                     | :green_circle: Easy    |
+| [27. Remove Element]                             | :green_circle: Easy    |
+| [125. Valid Palindrome]                          | :green_circle: Easy    |
+| [217. Contains Duplicate]                        | :green_circle: Easy    |
+| [268. Missing Number]                            | :green_circle: Easy    |
+| [344. Reverse String]                            | :green_circle: Easy    |
+| [977. Squares of a Sorted Array]                 | :green_circle: Easy    |
+| ["Hello World!" in C \| HackerRank]              | :green_circle: Easy    |
+| [Pointers in C \| HackerRank]                    | :green_circle: Easy    |
+| [Sum and Difference of Two Numbers\| HackerRank] | :green_circle: Easy    |
 
 ## Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
 | Problem                                    | Difficulty |
 | ------------------------------------------ | ---------- |
-| [905. Sort Array By Parity]                | ?Ÿ¢ Easy    |
-| [922. Sort Array By Parity II]             | ?Ÿ¢ Easy    |
-| [1636. Sort Array by Increasing Frequency] | ?Ÿ¢ Easy    |
+| [905. Sort Array By Parity]                | :green_circle: Easy    |
+| [922. Sort Array By Parity II]             | :green_circle: Easy    |
+| [1636. Sort Array by Increasing Frequency] | :green_circle: Easy    |
 
 ## Efficient Sorting with Divide and Conquer Sorts
 
 | Problem                                   | Difficulty |
 | ----------------------------------------- | ---------- |
-| [20. Valid Parentheses]                   | ?Ÿ¢ Easy    |
-| [21. Merge Two Sorted Lists]              | ?Ÿ¢ Easy    |
-| [26. Remove Duplicates from Sorted Array] | ?Ÿ¢ Easy    |
-| [191. Number of 1 Bits]                   | ?Ÿ¢ Easy    |
-| [219. Contains Duplicate II]              | ?Ÿ¢ Easy    |
-| [231. Power of Two]                       | ?Ÿ¢ Easy    |
-| [912. Sort an Array]                      | ?Ÿ¡ Medium  |
+| [20. Valid Parentheses]                   | :green_circle: Easy    |
+| [21. Merge Two Sorted Lists]              | :green_circle: Easy    |
+| [26. Remove Duplicates from Sorted Array] | :green_circle: Easy    |
+| [191. Number of 1 Bits]                   | :green_circle: Easy    |
+| [219. Contains Duplicate II]              | :green_circle: Easy    |
+| [231. Power of Two]                       | :green_circle: Easy    |
+| [912. Sort an Array]                      | :yellow_circle: Medium  |
 
 ## Dynamic Programming
 
 | Problem                                 | Difficulty |
 | --------------------------------------- | ---------- |
-| [20. Valid Parentheses]                 | ?Ÿ¡ Medium  |
-| [70. Climbing Stairs]                   | ?Ÿ¢ Easy    |
-| [118. Pascal's Triangle]                | ?Ÿ¢ Easy    |
-| [121. Best Time to Buy and Sell Stock]  | ?Ÿ¢ Easy    |
-| [338. Counting Bits]                    | ?Ÿ¢ Easy    |
-| [392. Is Subsequence]                   | ?Ÿ¢ Easy    |
-| [509. Fibonacci Number]                 | ?Ÿ¢ Easy    |
-| [746. Min Cost Climbing Stairs]         | ?Ÿ¢ Easy    |
-| [1043. Partition Array for Maximum Sum] | ?Ÿ¡ Medium  |
-| [1137. N-th Tribonacci Number]          | ?Ÿ¢ Easy    |
-| [1143. Longest Common Subsequence]      | ?Ÿ¡ Medium  |
-| [1646. Get Maximum in Generated Array]  | ?Ÿ¢ Easy    |
+| [20. Valid Parentheses]                 | :yellow_circle: Medium  |
+| [70. Climbing Stairs]                   | :green_circle: Easy    |
+| [118. Pascal's Triangle]                | :green_circle: Easy    |
+| [121. Best Time to Buy and Sell Stock]  | :green_circle: Easy    |
+| [338. Counting Bits]                    | :green_circle: Easy    |
+| [392. Is Subsequence]                   | :green_circle: Easy    |
+| [509. Fibonacci Number]                 | :green_circle: Easy    |
+| [746. Min Cost Climbing Stairs]         | :green_circle: Easy    |
+| [1043. Partition Array for Maximum Sum] | :yellow_circle: Medium  |
+| [1137. N-th Tribonacci Number]          | :green_circle: Easy    |
+| [1143. Longest Common Subsequence]      | :yellow_circle: Medium  |
+| [1646. Get Maximum in Generated Array]  | :green_circle: Easy    |
 
 ## Sequential Data Structures
 
 | Problem                                   | Difficulty |
 | ----------------------------------------- | ---------- |
-| [92. Reverse Linked List II]              | ?Ÿ¡ Medium  |
-| [141. Linked List Cycle]                  | ?Ÿ¢ Easy    |
-| [147. Insertion Sort List]                | ?Ÿ¡ Medium  |
-| [160. Intersection of Two Linked Lists]   | ?Ÿ¢ Easy    |
-| [167. Two Sum II - Input Array Is Sorted] | ?Ÿ¡ Medium  |
-| [203. Remove Linked List Elements]        | ?Ÿ¢ Easy    |
-| [206. Reverse Linked List]                | ?Ÿ¢ Easy    |
-| [217. Contains Duplicate]                 | ?Ÿ¢ Easy    |
-| [225. Implement Stack using Queues]       | ?Ÿ¢ Easy    |
-| [300. Longest Increasing Subsequence]     | ?Ÿ¡ Medium  |
-| [946. Validate Stack Sequences]           | ?Ÿ¡ Medium  |
-| [876. Middle of the Linked List]          | ?Ÿ¡ Medium  |
-| [1732. Find the Highest Altitude]         | ?Ÿ¢ Easy    |
+| [92. Reverse Linked List II]              | :yellow_circle: Medium  |
+| [141. Linked List Cycle]                  | :green_circle: Easy    |
+| [147. Insertion Sort List]                | :yellow_circle: Medium  |
+| [160. Intersection of Two Linked Lists]   | :green_circle: Easy    |
+| [167. Two Sum II - Input Array Is Sorted] | :yellow_circle: Medium  |
+| [203. Remove Linked List Elements]        | :green_circle: Easy    |
+| [206. Reverse Linked List]                | :green_circle: Easy    |
+| [217. Contains Duplicate]                 | :green_circle: Easy    |
+| [225. Implement Stack using Queues]       | :green_circle: Easy    |
+| [300. Longest Increasing Subsequence]     | :yellow_circle: Medium  |
+| [946. Validate Stack Sequences]           | :yellow_circle: Medium  |
+| [876. Middle of the Linked List]          | :yellow_circle: Medium  |
+| [1732. Find the Highest Altitude]         | :green_circle: Easy    |
 
 ## Trees
 
 | Problem                                 | Difficulty |
 | --------------------------------------- | ---------- |
-| [94. Binary Tree Inorder Traversal]     | ?Ÿ¢ Easy    |
-| [98. Validate Binary Search Tree]       | ?Ÿ¡ Medium  |
-| [100. Same Tree]                        | ?Ÿ¢ Easy    |
-| [104. Maximum Depth of Binary Tree]     | ?Ÿ¢ Easy    |
-| [112. Path Sum]                         | ?Ÿ¢ Easy    |
-| [144. Binary Tree Preorder Traversal]   | ?Ÿ¢ Easy    |
-| [145. Binary Tree Postorder Traversal]  | ?Ÿ¢ Easy    |
-| [543. Diameter of Binary Tree]          | ?Ÿ¢ Easy    |
-| [572. Subtree of Another Tree]          | ?Ÿ¢ Easy    |
-| [700. Search in a Binary Search Tree]   | ?Ÿ¢ Easy    |
-| [701. Insert into a Binary Search Tree] | ?Ÿ¡ Medium  |
-| [1302. Deepest Leaves Sum]              | ?Ÿ¡ Medium  |
+| [94. Binary Tree Inorder Traversal]     | :green_circle: Easy    |
+| [98. Validate Binary Search Tree]       | :yellow_circle: Medium  |
+| [100. Same Tree]                        | :green_circle: Easy    |
+| [104. Maximum Depth of Binary Tree]     | :green_circle: Easy    |
+| [112. Path Sum]                         | :green_circle: Easy    |
+| [144. Binary Tree Preorder Traversal]   | :green_circle: Easy    |
+| [145. Binary Tree Postorder Traversal]  | :green_circle: Easy    |
+| [543. Diameter of Binary Tree]          | :green_circle: Easy    |
+| [572. Subtree of Another Tree]          | :green_circle: Easy    |
+| [700. Search in a Binary Search Tree]   | :green_circle: Easy    |
+| [701. Insert into a Binary Search Tree] | :yellow_circle: Medium  |
+| [1302. Deepest Leaves Sum]              | :yellow_circle: Medium  |
 
 ## Graphs
 
 | Problem                                     | Difficulty |
 | ------------------------------------------- | ---------- |
-| [19. Remove Nth Node From End of List]      | ?Ÿ¡ Medium  |
-| [75. Sort Colors]                           | ?Ÿ¡ Medium  |
-| [82. Remove Duplicates from Sorted List II] | ?Ÿ¡ Medium  |
-| [83. Remove Duplicates from Sorted List]    | ?Ÿ¢ Easy    |
-| [119. Pascal's Triangle II]                 | ?Ÿ¢ Easy    |
-| [200. Number of Islands]                    | ?Ÿ¡ Medium  |
-| [797. All Paths From Source to Target]      | ?Ÿ¡ Medium  |
-| [997. Find the Town Judge]                  | ?Ÿ¢ Easy    |
-| [1791. Find Center of Star Graph]           | ?Ÿ¢ Easy    |
-| [1971. Find if Path Exists in Graph]        | ?Ÿ¢ Easy    |
+| [19. Remove Nth Node From End of List]      | :yellow_circle: Medium  |
+| [75. Sort Colors]                           | :yellow_circle: Medium  |
+| [82. Remove Duplicates from Sorted List II] | :yellow_circle: Medium  |
+| [83. Remove Duplicates from Sorted List]    | :green_circle: Easy    |
+| [119. Pascal's Triangle II]                 | :green_circle: Easy    |
+| [200. Number of Islands]                    | :yellow_circle: Medium  |
+| [797. All Paths From Source to Target]      | :yellow_circle: Medium  |
+| [997. Find the Town Judge]                  | :green_circle: Easy    |
+| [1791. Find Center of Star Graph]           | :green_circle: Easy    |
+| [1971. Find if Path Exists in Graph]        | :green_circle: Easy    |
 
 ## Greedy Algorithms
 
 | Problem                               | Difficulty |
 | ------------------------------------- | ---------- |
-| [53. Maximum Subarray]                | ?Ÿ¡ Medium  |
-| [409. Longest Palindrome]             | ?Ÿ¢ Easy    |
-| [605. Can Place Flowers]              | ?Ÿ¢ Easy    |
-| [678. Valid Parenthesis String]       | ?Ÿ¡ Medium  |
-| [1323. Maximum 69 Number]             | ?Ÿ¢ Easy    |
-| [1338. Reduce Array Size to The Half] | ?Ÿ¡ Medium  |
-| [1710. Maximum Units on a Truck]      | ?Ÿ¢ Easy    |
+| [53. Maximum Subarray]                | :yellow_circle: Medium  |
+| [409. Longest Palindrome]             | :green_circle: Easy    |
+| [605. Can Place Flowers]              | :green_circle: Easy    |
+| [678. Valid Parenthesis String]       | :yellow_circle: Medium  |
+| [1323. Maximum 69 Number]             | :green_circle: Easy    |
+| [1338. Reduce Array Size to The Half] | :yellow_circle: Medium  |
+| [1710. Maximum Units on a Truck]      | :green_circle: Easy    |
 
 ## Hashmaps
 
 | Problem                                      | Difficulty |
 | -------------------------------------------- | ---------- |
-| [13. Roman to Integer]                       | ?Ÿ¢ Easy    |
-| [128. Longest Consecutive Sequence]          | ?Ÿ¡ Medium  |
-| [242. Valid Anagram]                         | ?Ÿ¢ Easy    |
-| [268. Missing Number]                        | ?Ÿ¢ Easy    |
-| [383. Ransom Note]                           | ?Ÿ¢ Easy    |
-| [387. First Unique Character in a String]    | ?Ÿ¢ Easy    |
-| [1189. Maximum Number of Balloons]           | ?Ÿ¢ Easy    |
-| [1832. Check if the Sentence Is Pangram]     | ?Ÿ¢ Easy    |
-| [2225. Find Players With Zero or One Losses] | ?Ÿ¡ Medium  |
+| [13. Roman to Integer]                       | :green_circle: Easy    |
+| [128. Longest Consecutive Sequence]          | :yellow_circle: Medium  |
+| [242. Valid Anagram]                         | :green_circle: Easy    |
+| [268. Missing Number]                        | :green_circle: Easy    |
+| [383. Ransom Note]                           | :green_circle: Easy    |
+| [387. First Unique Character in a String]    | :green_circle: Easy    |
+| [1189. Maximum Number of Balloons]           | :green_circle: Easy    |
+| [1832. Check if the Sentence Is Pangram]     | :green_circle: Easy    |
+| [2225. Find Players With Zero or One Losses] | :yellow_circle: Medium  |
 
 <!-- Auto Reference -->
 
