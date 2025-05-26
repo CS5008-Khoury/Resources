@@ -23,6 +23,7 @@ The following resources are a *starting* point for resources. These often change
     - [Algorithms and Quadratic Sorts](#algorithms-and-quadratic-sorts)
     - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
     - [Introduction to Dynamic Programming](#introduction-to-dynamic-programming)
+    - [Stacks, Queues, Vectors, Linked Lists](#stacks-queues-vectors-linked-lists)
 
 
 ## Course Text Books
@@ -178,3 +179,12 @@ The following resources are copies of the links provided in each of the modules.
 ### Introduction to Dynamic Programming
 
 * [Grokking Algorithms - Dynamic Programming](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/11.html#heading_id_3)
+
+### Stacks, Queues, Vectors, Linked Lists
+
+* [Grokking Data Structures -  Dynamic arrays: Handling dynamically sized datasets](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/05.html)
+* [Array Visualizations](https://visualgo.net/en/array)
+* [Grokking Data Structures - Stacks](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/08.html)
+* [Grokking Data Structures - Queues](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/09.html)
+* [Grokking Data Structures - Linked Lists](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/06.html)
+* [Linked List Visualizations](https://visualgo.net/en/list)
