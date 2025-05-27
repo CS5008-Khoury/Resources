@@ -14,7 +14,8 @@ A collection of technical interview questions to be explored each module.
     - [Recursion](#recursion)
     - [Efficient Sorting](#efficient-sorting)
   - [Dynamic Programming](#dynamic-programming)
-  - [Stacks, Queues, and Linked Lists](#stacks-queues-and-linked-lists)
+  - [Sequential Data Structures](#sequential-data-structures)
+    - [Vectors](#vectors)
     - [Stacks](#stacks)
     - [Queues](#queues)
     - [Linked Lists](#linked-lists)
@@ -115,7 +116,11 @@ A collection of technical interview questions to be explored each module.
 
 * Dynamic Programming solves a common recursive issue of repeated calculations. So, when would we want to use recursion instead of Dynamic Programming?
 
-## Stacks, Queues, and Linked Lists
+## Sequential Data Structures
+
+### Vectors
+* Explain why you would use a vector. Give common use cases.
+* Explain why worst case is amortized $O(1)$ instead of just $O(n)$, can you describe what creates the worst case and how it changes over time?
 
 ### Stacks
 
