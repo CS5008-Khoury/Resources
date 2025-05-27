@@ -24,6 +24,7 @@ The following resources are a *starting* point for resources. These often change
     - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
     - [Introduction to Dynamic Programming](#introduction-to-dynamic-programming)
     - [Stacks, Queues, Vectors, Linked Lists](#stacks-queues-vectors-linked-lists)
+    - [Sorted Structures: Priority Queues, Trees, Heaps](#sorted-structures-priority-queues-trees-heaps)
 
 
 ## Course Text Books
@@ -188,3 +189,10 @@ The following resources are copies of the links provided in each of the modules.
 * [Grokking Data Structures - Queues](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/09.html)
 * [Grokking Data Structures - Linked Lists](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/06.html)
 * [Linked List Visualizations](https://visualgo.net/en/list)
+
+### Sorted Structures: Priority Queues, Trees, Heaps
+* [Grokking Data Structures - Priority Queues](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/10.html)
+* [Grokking Algorithms - Trees](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/07.html)
+* [Grokking Data Structures - BST](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/11.html)
+* [BST Visualization](https://visualgo.net/en/bst?slide=1)
+ 
