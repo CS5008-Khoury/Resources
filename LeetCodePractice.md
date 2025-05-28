@@ -6,16 +6,16 @@ The following repository contains a collection of LeetCode and HackerRank proble
 The problems selected are valid for the module and any preceding modules. As such, just because something is listed under Graphs, it doesn't mean you need to use graphs to solve it! You can use any of the data structures and algorithms you have learned up to that point. 
 
 - [Coding Practice Repository](#coding-practice-repository)
-  - [Legend](#legend)
-    - [C Programming Practice](#c-programming-practice)
-    - [Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
-    - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Sequential Data Structures](#sequential-data-structures)
-    - [Trees](#trees)
-    - [Graphs](#graphs)
-    - [Greedy Algorithms](#greedy-algorithms)
-    - [Hashmaps](#hashmaps)
+    - [Legend](#legend)
+  - [C Programming Practice](#c-programming-practice)
+  - [Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)](#introduction-to-analysis-of-algorithms-quadratic-sorts-selection-insertion-bubble)
+  - [Efficient Sorting with Divide and Conquer Sorts](#efficient-sorting-with-divide-and-conquer-sorts)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Sequential Data Structures](#sequential-data-structures)
+  - [Trees](#trees)
+  - [Graphs](#graphs)
+  - [Greedy Algorithms](#greedy-algorithms)
+  - [Hash Tables](#hash-tables)
 
 ### Legend
 
@@ -135,7 +135,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [1338. Reduce Array Size to The Half] | :yellow_circle: Medium  |
 | [1710. Maximum Units on a Truck]      | :green_circle: Easy    |
 
-## Hashmaps
+## Hash Tables
 
 | Problem                                      | Difficulty |
 | -------------------------------------------- | ---------- |

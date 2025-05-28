@@ -25,6 +25,7 @@ The following resources are a *starting* point for resources. These often change
     - [Introduction to Dynamic Programming](#introduction-to-dynamic-programming)
     - [Stacks, Queues, Vectors, Linked Lists](#stacks-queues-vectors-linked-lists)
     - [Sorted Structures: Priority Queues, Trees, Heaps](#sorted-structures-priority-queues-trees-heaps)
+    - [Hash Tables](#hash-tables)
 
 
 ## Course Text Books
@@ -196,3 +197,9 @@ The following resources are copies of the links provided in each of the modules.
 * [Grokking Data Structures - BST](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/11.html)
 * [BST Visualization](https://visualgo.net/en/bst?slide=1)
  
+
+### Hash Tables
+* [Grokking Algorithms - Hash Tables](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/05.html)
+* [Grokking Data Structures - Dictionaries and hash tables](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/12.html)
+* [Visualizing Hash Tables](https://visualgo.net/en/hashtable?slide=1)
+  
