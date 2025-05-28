@@ -27,6 +27,7 @@ The following resources are a *starting* point for resources. These often change
     - [Sorted Structures: Priority Queues, Trees, Heaps](#sorted-structures-priority-queues-trees-heaps)
     - [Hash Tables](#hash-tables)
     - [Graphs](#graphs)
+    - [Greedy Algorithms](#greedy-algorithms)
 
 
 ## Course Text Books
@@ -207,3 +208,9 @@ The following resources are copies of the links provided in each of the modules.
 ### Graphs
 * [Visual Representation of Graphs](https://visualgo.net/en/graphds)
 * [Grokking Data Structures - Graphs](https://learning.oreilly.com/library/view/grokking-data-structures/9781633436992/OEBPS/Text/13.html)
+
+### Greedy Algorithms
+
+* [Grokking Algorithms - Greedy Algorithms](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/10.html#heading_id_3)
+* [Grokking Algorithms - Dijkstra's Algorithm](https://learning.oreilly.com/library/view/grokking-algorithms-second/9781633438538/OEBPS/Text/09.html)
+* [Visualizing Shortest Path Algorithms](https://visualgo.net/en/sssp?slide=7)
