@@ -248,8 +248,8 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 [605. Can Place Flowers]: https://leetcode.com/problems/can-place-flowers/description/
 
-[Pointers in C | HackerRank]: https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
+[Pointers in C \| HackerRank]: https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
 
-[Sum and Difference of Two Numbers| HackerRank]:https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
+[Sum and Difference of Two Numbers\| HackerRank]:https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
 
- ["Hello World!" in C | HackerRank]:https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
+["Hello World!" in C \| HackerRank]:https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
