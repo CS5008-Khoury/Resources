@@ -49,7 +49,6 @@ The problems selected are valid for the module and any preceding modules. As suc
 | Problem                                   | Difficulty |
 | ----------------------------------------- | ---------- |
 | [20. Valid Parentheses]                   | :green_circle: Easy    |
-| [21. Merge Two Sorted Lists]              | :green_circle: Easy    |
 | [26. Remove Duplicates from Sorted Array] | :green_circle: Easy    |
 | [191. Number of 1 Bits]                   | :green_circle: Easy    |
 | [219. Contains Duplicate II]              | :green_circle: Easy    |
@@ -77,6 +76,7 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 | Problem                                   | Difficulty |
 | ----------------------------------------- | ---------- |
+| [21. Merge Two Sorted Lists]              | :green_circle: Easy    |
 | [92. Reverse Linked List II]              | :yellow_circle: Medium  |
 | [141. Linked List Cycle]                  | :green_circle: Easy    |
 | [147. Insertion Sort List]                | :yellow_circle: Medium  |
