@@ -32,9 +32,9 @@ The problems selected are valid for the module and any preceding modules. As suc
 | [268. Missing Number]                            | :green_circle: Easy    |
 | [344. Reverse String]                            | :green_circle: Easy    |
 | [977. Squares of a Sorted Array]                 | :green_circle: Easy    |
-| ["Hello World!" in C \| HackerRank]              | :green_circle: Easy    |
-| [Pointers in C \| HackerRank]                    | :green_circle: Easy    |
-| [Sum and Difference of Two Numbers\| HackerRank] | :green_circle: Easy    |
+| ["Hello World!" in C - HackerRank]               | :green_circle: Easy    |
+| [Pointers in C - HackerRank]                     | :green_circle: Easy    |
+| [Sum and Difference of Two Numbers - HackerRank] | :green_circle: Easy    |
 
 ## Introduction to Analysis of Algorithms, Quadratic Sorts (Selection, Insertion, Bubble)
 
@@ -248,8 +248,8 @@ The problems selected are valid for the module and any preceding modules. As suc
 
 [605. Can Place Flowers]: https://leetcode.com/problems/can-place-flowers/description/
 
-[Pointers in C \| HackerRank]: https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
+[Pointers in C - HackerRank]: https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true
 
-[Sum and Difference of Two Numbers\| HackerRank]:https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
+[Sum and Difference of Two Numbers - HackerRank]:https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
 
-["Hello World!" in C \| HackerRank]:https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
+["Hello World!" in C - HackerRank]:https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true
